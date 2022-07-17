@@ -1,0 +1,111 @@
+* {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.font1 {
+    font-family: 'Tiro Devanagari Sanskrit', serif; 
+}
+.nav-link {
+    margin-right: 25px;
+}
+.buynow {
+    background: #B08EAD;
+    height: 390px;
+    width: 410px !important;
+    padding-top: 90px;
+    padding-left: 40px !important;
+    margin-left: 320px;
+    margin-top: 45px !important;
+}
+.cushdesigner {
+    height: 400px;
+}
+.cushdesigner .col-lg-4 {
+    margin-top: 50px;
+}
+.begin {
+    background: #CEB3CB;
+    height: 700px;
+    margin-top: 300px;
+    padding-left: 300px;
+}
+.trendy {
+    background: #B08EAD;
+    color: white;
+    height: 400px;
+    width: 400px !important;
+    padding-left: 40px !important;
+    padding-top: 100px;
+    margin-top: 80px !important;
+    margin-left: 00px !important;
+}
+.image5 {
+    margin-left: -60px !important;
+}
+.cwhite {
+ color: white;
+}
+
+.cwviolet {
+    background: #B08EAD;
+}
+.bbttm-sld-wht {
+    border-bottom: 1px solid white;
+    width: fit-content;
+}
+.lol {
+    background: #B08EAD;
+    height: 400px;
+    padding-top: 60px;
+    padding-left: 30px !important;
+    margin-top: 100px !important;
+    margin-left: -200px !important;
+}
+.bobo {
+    color: #B0B0B0;
+    text-align: center;
+}
+.hed {
+    color: #5F4D5D;
+    text-align: center;
+}
+.inmax {
+    height: 330px;
+}
+.ml-5 {
+    margin-left: 35px;
+}
+.bctr {
+    background: transparent !important;
+
+}
+.erta {
+    margin-top: 15px !important;
+}
+.buya {
+    padding-left: 10px !important;
+}
+.textarea {
+    background: #CEB3CB;
+    border: 1px solid white;
+    
+}
+.txtlgn {
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    widt
+  }
+  <style>
+  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
+}
+.contactUs ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #CEB3CB;
+  opacity: 1; /* Firefox */
+}
+</style>
